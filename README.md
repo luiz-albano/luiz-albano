@@ -1,8 +1,8 @@
 ## Olá! Sou o Luiz Albano
 
 <div style="display: inline-block;">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=luiz-albano&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show_icons=true">&nbsp;&nbsp;&nbsp;
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-albano&layout=compact&langs_count=7&theme=dark">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luiz-albano&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show_icons=true">&nbsp;&nbsp;&nbsp;
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-albano&layout=compact&langs_count=7&theme=dark">
 </div>
 
 <div style="display: inline-block"><br>
