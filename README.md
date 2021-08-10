@@ -5,7 +5,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-albano&layout=compact&langs_count=7&theme=dark">
 </div>
 
-<div style="display: inline-block"><br>
+<div style="display: inline-block;"><br>
     <img align="center" alt="LuizAlbano-Php" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
     <img align="center" alt="LuizAlbano-Symphony" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg">
     <img align="center" alt="LuizAlbano-Js" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -18,4 +18,10 @@
     <img align="center" alt="LuizAlbano-C" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
     <img align="center" alt="LuizAlbano-Cpp" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="LuizAlbano-Photoshop" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
+</div>
+
+##
+
+<div>
+    <a href="https://www.linkedin.com/in/luiz-albano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
