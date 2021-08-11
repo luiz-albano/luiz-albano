@@ -1,5 +1,12 @@
 ## Olá! Sou o Luiz Albano
 
+<div>
+    <img alt="LuizAlbano-BR" width="24" src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg"> Arquiteto de Software & Full Stack Developer. Meus interesses e foco de estudos estão em desenvolvimento para web, experiência do usuário, empreendedorismo e inovação.<br><br>
+    <img alt="LuizAlbano-UK" width="24" src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg"> I´m a Software Architect  and Full Stack Developer. My interestings and focuses of study are in web development, user experience, entrepreneurship and innovation.
+</div>
+
+##
+
 <div style="display: inline-block;">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luiz-albano&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show_icons=true">&nbsp;&nbsp;&nbsp;
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-albano&layout=compact&langs_count=7&theme=dark">
