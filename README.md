@@ -30,5 +30,7 @@
 ##
 
 <div>
-    <a href="https://www.linkedin.com/in/luiz-albano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/luiz-albano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
+    <a href="https://www.paypal.com/donate?business=SL929YXA45TUA&no_recurring=0&currency_code=BRL" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="blank"></a>
+    
 </div>
